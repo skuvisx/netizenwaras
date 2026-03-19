@@ -144,7 +144,7 @@ export default function CTASection() {
             <p className="text-white font-semibold">Putra Dharma Prajna Adhitthana Bun</p>
             <p className="text-purple-300/70 text-sm font-mono">NIM: 32230161</p>
             <p className="text-purple-300/60 text-sm">Program Studi Informatika</p>
-            <p className="text-purple-300/60 text-sm">Universitas Bunda Mulia · 2024</p>
+            <p className="text-purple-300/60 text-sm">Universitas Bunda Mulia · 2026</p>
           </div>
           <a
             href="mailto:s32230161@student.ubm.ac.id"
