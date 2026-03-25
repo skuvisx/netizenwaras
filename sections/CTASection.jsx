@@ -155,6 +155,13 @@ export default function CTASection() {
             <Mail size={14} />
             s32230161@student.ubm.ac.id
           </a>
+          <a
+            href="mailto:s32230148@student.ubm.ac.id"
+            className="flex items-center gap-2 text-sm text-purple-400 hover:text-purple-300 transition-colors"
+          >
+            <Mail size={14} />
+            s32230148@student.ubm.ac.id
+          </a>
         </motion.div>
       </div>
     </section>
