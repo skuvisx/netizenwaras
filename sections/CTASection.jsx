@@ -142,7 +142,9 @@ export default function CTASection() {
           </div>
           <div className="text-left space-y-1 mb-4">
             <p className="text-white font-semibold">Putra Dharma Prajna Adhitthana Bun</p>
+            <p className="text-white font-semibold">Vincent Leonardi</p>
             <p className="text-purple-300/70 text-sm font-mono">NIM: 32230161</p>
+            <p className="text-purple-300/70 text-sm font-mono">NIM: 32230148</p>
             <p className="text-purple-300/60 text-sm">Program Studi Informatika</p>
             <p className="text-purple-300/60 text-sm">Universitas Bunda Mulia</p>
           </div>
