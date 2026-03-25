@@ -39,7 +39,9 @@ export default function Footer() {
             <div className="p-4 rounded-xl border border-purple-700/20 bg-purple-900/10">
               <p className="text-xs text-purple-400 mb-1 font-mono">DIBUAT OLEH</p>
               <p className="text-white font-semibold text-sm">Putra Dharma Prajna Adhitthana Bun</p>
+              <p className="text-white font-semibold text-sm">Vincent Leonardi</p>
               <p className="text-purple-300/70 text-xs mt-0.5">NIM: 32230161</p>
+              <p className="text-purple-300/70 text-xs mt-0.5">NIM: 32230148</p>
               <p className="text-purple-300/70 text-xs">Program Studi Informatika</p>
               <p className="text-purple-300/70 text-xs">Universitas Bunda Mulia</p>
               <a
