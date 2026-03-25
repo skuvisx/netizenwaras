@@ -51,6 +51,13 @@ export default function Footer() {
                 <Mail size={12} />
                 s32230161@student.ubm.ac.id
               </a>
+              <a
+                href="mailto:s32230148@student.ubm.ac.id"
+                className="flex items-center gap-1.5 text-xs text-purple-400 hover:text-purple-300 mt-2 transition-colors"
+              >
+                <Mail size={12} />
+                s32230148@student.ubm.ac.id
+              </a>
             </div>
           </div>
 
@@ -114,7 +121,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-6 border-t border-purple-900/30">
           <p className="text-xs text-purple-400/50 text-center sm:text-left">
-            © 2024 Netizen Waras · Dibuat dengan 💜 oleh Putra Dharma · NIM 32230161
+            © 2024 Netizen Waras · Dibuat dengan 💜 oleh Putra Dharma · NIM 32230161, Vincent Leonardi · NIM 32230148
           </p>
           <p className="text-xs text-purple-400/40 font-mono">
             "Jempol cepat boleh. Tapi empati jangan sampai telat."
