@@ -12,7 +12,7 @@ export const campaignConfig = {
   // Contoh: "https://www.instagram.com/p/XXXXXXXXXX/"
   // ──────────────────────────────────────────────
   poster: {
-    instagramUrl: "", // ← PASTE LINK POST INSTAGRAM KAMU DI SINI
+    instagramUrl: "https://www.instagram.com/p/DWWytvHE7Or/?igsh=MXNpMnFnMjM2YXllbg==", // ← PASTE LINK POST INSTAGRAM KAMU DI SINI
     caption: "Poster Kampanye #NetizenWaras",
     hashtags: ["#NetizenWaras", "#AntiCyberbullying", "#EmpatiDigital"],
   },
